@@ -70,4 +70,4 @@ else
 
 fi
 
-#/usr/local/frps/frps -c /usr/local/frps/frps.ini
+/usr/local/frps/frps -c /usr/local/frps/frps.ini
