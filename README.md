@@ -1,2 +1,3 @@
 # frp_autoupdate
-frp 自动升级脚本 自用 连接自己的服务器
+frp 自动升级脚本
+放至 /usr/local/frp*/ 赋予执行权限后执行
